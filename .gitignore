@@ -1,0 +1,4 @@
+node_modules/
+apax-lock.json
+*.log
+test/
